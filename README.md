@@ -1,11 +1,11 @@
 # Trustlens-MVP - ZHAW-Prototype
 Trustlens is a students project from Zurich University of Applied Science, Centre for AI, Responsible AI Group.
 
-This MVP is designed to generate questions that support the development of trustworthy AI systems across different roles and at different stages of the lifecycle, from research to deployment. The prototype is based on the ALTAI (Assessment List for Trustworthy Artificial Intelligence) framework from EU.  
+This MVP is based on trustworthiness guidelines from the EU and displays relevant questions for the given context (role, AI-Lifecycle-Stages, and TRL-Stages).
 
 ## Roles in the tool
 The tool distinguishes between three key roles that reflect different perspectives and responsibilities in the AI lifecycle.
-Each role focuses on a specific aspect of developing and maintaining trustworthy AI systems.
+Each role focuses on a specific aspect of developing and maintaining trustworthy AI systems, as defined within the context of this student project.
 
 ### Developer
 **Main focus: Technical implementation and data responsibility**
